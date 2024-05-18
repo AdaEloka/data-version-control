@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:\Users\vanca\OneDrive - Clarion Shipping WA LTD\Personal\python_work\dvc_remote
